@@ -6,7 +6,7 @@ web link :
 
 1- https://casaloon.netlify.app
 
-design app links  :
+app links store :
 
 1- https://play.google.com/store/apps/details?id=engmhmods.actsol.aljouf
 
