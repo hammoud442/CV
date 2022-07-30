@@ -10,6 +10,25 @@ web link :
 
 3- https://casaloon.netlify.app
 
+Design :
+
+1- https://bit.ly/hums_final_wireframe_low_fidelity
+
+2- https://bit.ly/google_play_design
+
+3- https://bit.ly/social_media_designn
+
+4- https://bit.ly/social_media_designnn
+
+file design link download :
+
+1- https://bit.ly/darb_xd
+
+2- https://bit.ly/aljoof_xd
+
+3- https://bit.ly/coffe_world_xd
+
+4- https://bit.ly/college_elawoda_xd
 
 app links store :
 
