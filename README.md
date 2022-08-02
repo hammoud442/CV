@@ -14,15 +14,13 @@ Design :
 
 1- https://bit.ly/hums_final_wireframe_low_fidelity
 
-2- https://bit.ly/caffe_world_layout
+2- https://bit.ly/darp_layout
 
-3- https://bit.ly/darp_layout
+3- https://bit.ly/google_play_design
 
-4- https://bit.ly/google_play_design
+4- https://bit.ly/social_media_designn
 
-5- https://bit.ly/social_media_designn
-
-6- https://bit.ly/social_media_designnn
+5- https://bit.ly/social_media_designnn
 
 file design link download :
 
