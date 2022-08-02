@@ -46,5 +46,4 @@ app links store :
 
 6- https://apps.apple.com/il/app/casaloon-%D9%83%D8%A7%D8%B2%D8%A7%D9%84%D9%88%D9%86/id1463616071
 
-7- https://apps.apple.com/il/app/part-time-%D8%A8%D8%A7%D8%B1%D8%AA-%D8%AA%D8%A7%D9%8A%D9%85/id1463283862
 
