@@ -48,9 +48,5 @@ app links store :
 
 
 
-https://drive.google.com/file/d/1s7IuSQdy6CfC4308oZbquDAqbYsQFqfl/view?usp=sharing
-
-https://drive.google.com/file/d/1xBXkd2hCtE7QipjQnPFojBSGcWE-kH94/view?usp=sharing
-
 
 
